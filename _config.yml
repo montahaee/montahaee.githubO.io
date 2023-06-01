@@ -71,7 +71,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/montahaee/"
-      - label: "Skype"
+    - label: "Skype"
       icon: "fab fa-fw fa-skype"
       url: "https://www.skype.com/en/"
     - label: "Instagram"
