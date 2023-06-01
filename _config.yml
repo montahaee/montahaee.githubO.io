@@ -74,7 +74,6 @@ author:
       - label: "Skype"
       icon: "fab fa-fw fa-skype"
       url: "https://www.skype.com/en/"
-
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
