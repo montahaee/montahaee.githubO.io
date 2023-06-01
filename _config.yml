@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Email"
+    - label: "MATSE"
       icon: "fas fa-fw fa-link"
-      email: "/morteza.montahaee@outlook.com/"
+      url: "https://www.rwth-aachen.de/cms/root/Die-RWTH/Arbeiten-an-der-RWTH/Berufsausbildung/Ausbildungsberufe/~vsa/Math-techn-Softwareentwickler/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
